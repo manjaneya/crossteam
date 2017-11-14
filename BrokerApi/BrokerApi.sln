@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokerApi", "BrokerApi\BrokerApi.csproj", "{CC25DE4B-D009-46AD-9471-D52247513019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC25DE4B-D009-46AD-9471-D52247513019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC25DE4B-D009-46AD-9471-D52247513019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC25DE4B-D009-46AD-9471-D52247513019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC25DE4B-D009-46AD-9471-D52247513019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC7860B-D7F1-4C24-B7CF-BCB789940581}
+	EndGlobalSection
+EndGlobal
