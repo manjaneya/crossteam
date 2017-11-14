@@ -1,0 +1,16 @@
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\BrokerApi.dll.config
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\BrokerApi.dll
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\BrokerApi.pdb
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\Newtonsoft.Json.dll
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\System.Net.Http.Formatting.dll
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\System.Web.Http.dll
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\System.Web.Http.WebHost.dll
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\Newtonsoft.Json.xml
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\System.Net.Http.Formatting.xml
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\System.Web.Http.xml
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\bin\System.Web.Http.WebHost.xml
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\obj\Debug\BrokerApi.csproj.CoreCompileInputs.cache
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\obj\Debug\BrokerApi.dll
+E:\Blinds_Projects\BrokerApi\BrokerApi\BrokerApi\obj\Debug\BrokerApi.pdb
